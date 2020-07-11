@@ -1,0 +1,51 @@
+body{
+    background-color: #E5E5E5;
+}
+.logo{
+    position: absolute;
+width: 40.42px;
+height: 51px;
+left: 293px;
+top: 15px;
+}
+main{
+    max-width:870px;
+}
+.navbar img{
+    width: 40px;
+}
+.top-header{
+position: absolute;
+width: 54px;
+height: 36px;
+left: 341px;
+top: 15px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #FFFFFF;
+}
+.player img{
+    width:56px;
+}
+.highlight{
+    color: #562EFF;
+    line-height: 24px;
+    width:124px;
+    left: 508px;
+    top: 581px;
+    font-family: Poppins;
+}
+.header-highlight{
+font-family: Poppins;
+color: #562EFF;
+}
+.card-text{
+    font-family: Poppins;
+    color: #ED6B4F;
+}
+.card-img-top{
+    width: 225px;
+}
